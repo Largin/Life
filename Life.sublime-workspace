@@ -1,0 +1,467 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"fon",
+				"font-weight\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"padd",
+				"padding-top\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Life.html",
+			"settings":
+			{
+				"buffer_size": 82,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"the",
+				"UI: Select Theme"
+			],
+			[
+				"colo",
+				"UI: Select Color Scheme"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"info",
+				"Set Syntax: Inform 6"
+			],
+			[
+				"in",
+				"Set Syntax: Inform 6"
+			],
+			[
+				"syn in",
+				"Set Syntax: Inform 6"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"syn jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"jso",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"syn json",
+				"Set Syntax: JSON"
+			],
+			[
+				"calc",
+				"Calculate"
+			],
+			[
+				"syn ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"syn hte",
+				"Set Syntax: HTML (Erlang)"
+			],
+			[
+				"syn js",
+				"Set Syntax: JSON"
+			],
+			[
+				"syn html",
+				"Set Syntax: HTML"
+			],
+			[
+				"syn sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"syn h",
+				"Set Syntax: HTML"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"intal",
+				"Package Control: Install Package"
+			],
+			[
+				"js",
+				"Set Syntax: JSON"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Moje/develop/Life 2"
+	],
+	"file_history":
+	[
+		"/C/Moje/develop/Life 2/Life.sublime-project",
+		"/C/Moje/_Git_Key/git-hub.key",
+		"/C/Moje/_Git_Key/git-hub",
+		"/C/Moje/_Git_Key/git-hub.ppk",
+		"/C/Moje/Gry/Inform/TrapQuest-master/Trap Quest.inform/Inform/Extensions/Piercings Modules/All Piercings.i7x",
+		"/C/Moje/Gry/Inform/TrapQuest-master/Trap Quest.inform/Inform/Extensions/Furniture/Modification Machine.i7x",
+		"/C/Moje/Gry/Inform/TrapQuest-master/Trap Quest.inform/Inform/Extensions/Headgear/Cow Ears.i7x",
+		"/C/Moje/Gry/Inform/TrapQuest-master/Trap Quest.inform/Inform/Extensions/Monster/Teachers Pink Diamond.i7x",
+		"/C/Moje/Gry/Inform/TrapQuest-master/Trap Quest.inform/Inform/Extensions/Equippables/Fake Nails.i7x",
+		"/C/Moje/Gry/Inform/TrapQuest-master/Trap Quest.inform/Inform/Extensions/Monster Framework/Staff Framework.i7x",
+		"/C/Moje/Gry/Inform/TrapQuest-master/Trap Quest.inform/Inform/Extensions/Monster/Teachers Emerald.i7x",
+		"/C/Moje/Gry/Inform/TrapQuest-master/Trap Quest.inform/Inform/Extensions/Monster/Teachers Ruby.i7x",
+		"/C/Moje/Gry/Inform/TrapQuest-master/Trap Quest.inform/Inform/Extensions/Monster/Mannequin.i7x",
+		"/C/Moje/Gry/Inform/TrapQuest-master/Trap Quest.inform/Inform/Extensions/Furniture/Med Bay Bed.i7x",
+		"/C/Moje/Gry/HTML/illuminati t and c/cyoa.js",
+		"/C/Moje/Gry/HTML/illuminati t and c/cyoa.html",
+		"/C/Moje/Gry/HTML/You Throw Like A Girl 0.6.0.html",
+		"/C/Moje/develop/python/surface3d_demo2.py",
+		"/C/Users/kuchtam/Documents/Klei/OxygenNotIncluded/mods/mods.json",
+		"/C/Users/kuchtam/AppData/Local/Temp/uncom.tmp/edit.tmp/3c0a/config.json",
+		"/C/Moje/Gry/OxygenNotIncluded/OxygenNotIncluded_Data/StreamingAssets/elements/gas.yaml",
+		"/C/Moje/Gry/OxygenNotIncluded/OxygenNotIncluded_Data/StreamingAssets/codex/Buildings/PrintingPod.yaml",
+		"/C/Moje/develop/python -/surface3d_demo.py",
+		"/C/Moje/Gry/OxygenNotIncluded/OxygenNotIncluded_Data/StreamingAssets/worldgen/worlds/Badlands.yaml",
+		"/C/Soft/scopy_wdrozenie_online_payment_2.sql",
+		"/C/Moje/Gry/HTML/Perverted Education/PE.html",
+		"/C/Soft/payment-communication-scheduler/.docker/docker-compose.yml",
+		"/C/Soft/payment-communication-scheduler/.gitlab-ci/docker-compose.yml",
+		"/C/Soft/payment-communication-scheduler/.gitlab-ci/docker-entrypoint.sh",
+		"/C/Soft/payment-communication-scheduler/.gitlab-ci/Dockerfile",
+		"//192.168.0.8/Wersje Testowe/GEB_RW/invictus.ini",
+		"/C/Moje/Gry/HTML/Bimbo Life Coach v0.3a/Bimbo Life Coach.html",
+		"/C/Moje/Gry/HTML/Bimbo Life Coach v0.2b/Bimbo Life Coach v0.3 - Working/Bimbo Life Coach.html",
+		"/C/Soft/ivf-deposits-test/docker-compose.yml",
+		"/C/Moje/develop/twineGraph/node_modules/twine-parser/index.js",
+		"/C/Moje/develop/twineGraph/demo.js",
+		"/C/Moje/develop/twineGraph/game.json",
+		"/C/Program Files (x86)/Jaspersoft/iReport-5.6.0/etc/ireport.conf",
+		"/C/Soft/skrypt.sql",
+		"/C/Soft/Raport bazy archiwum +.sql",
+		"/C/Soft/with.cpp",
+		"/C/Soft/Skrypty do naprawy błędów ludzkich.sql",
+		"/C/Users/kuchtam/Documents/Rad_Studio_XE2_Upd3_Help_Downloadsversion.ini",
+		"/C/Soft/Env/instalki srodowisko XE/klucze.txt",
+		"/C/Soft/payment-communication-scheduler/.docker/config.ini",
+		"/C/Soft/ivf-deposits/ivf-deposits.log",
+		"/C/Soft/payment-communication-scheduler/payment-communication-scheduler.log",
+		"/C/Soft/payment-communication-scheduler/payment-communication-scheduler.log.json",
+		"/C/Soft/InvProjects/archive_ivf/classes/IDepositMaterialList.cpp",
+		"/C/Soft/InvProjects/archive_ivf/forms/FormDeposit.cpp",
+		"/C/Soft/InvProjects/archive_ivf/forms/FormEditDeposit.cpp",
+		"/C/Soft/InvProjects/archive_ivf/forms/FormDeposit.dfm",
+		"/C/Soft/InvProjects/archive_ivf/classes/IDeposit.cpp",
+		"/C/Soft/template PL.html",
+		"/C/Soft/scopy_wdrozenie_online_payment_v2.sql",
+		"/C/Soft/payment-communication-scheduler-prod/config.ini",
+		"/C/Soft/payment-communication-scheduler-prod/docker-compose.yml",
+		"/C/Moje/develop/twineGraph/Fanucci's Amazing Pizza.html",
+		"/C/Moje/develop/twineGraph/cytoscape-euler.js",
+		"/C/Moje/develop/twineGraph/index.html",
+		"/C/Soft/ivf-deposits/.docker/config.ini",
+		"/C/Moje/develop/server.bat",
+		"/C/Moje/develop/twineGraph/Bimbo Life Coach.html",
+		"/C/Moje/develop/twineGraph/twine-parser-master/index.js",
+		"/C/Moje/develop/twineGraph/index.html.txt",
+		"/C/Moje/Gry/HTML/FAPv1/Fanucci's Amazing Pizza.html",
+		"/C/Soft/ivf-deposits/.docker/docker-compose.yml",
+		"/C/Soft/mail/src/main/resources/db/migrations/common/v0.1.13_change_upcoming_payments_mail_template.sql",
+		"/C/Moje/Gry/Battle Brothers/Seeds.json",
+		"/C/Moje/Gry/Battle Brothers/Modding/mod_map_data-126-1-1-1561297414/scripts/states/world_state.nut",
+		"/C/Soft/payment-communication-scheduler-test/docker-compose.yml",
+		"/C/Moje/Gry/HTML/Queen.html",
+		"/C/Soft/mail/src/main/resources/db/migrations/common/v0.1.15_change_upcoming_payments_mail_template.sql",
+		"/C/Soft/payment-communication-scheduler-test/config.ini",
+		"/C/Soft/maile dla płatności.sql",
+		"/C/Soft/payment-communication-scheduler-test/log/payment-communication-scheduler.log",
+		"/C/Moje/Gry/Battle Brothers/map.csv",
+		"/C/Moje/Gry/Battle Brothers/Modding/scripts/entity/world/settlement.nut",
+		"/C/Moje/Gry/Battle Brothers/Modding/scripts/states/world_state.nut",
+		"/C/Moje/Gry/Battle Brothers/Modding/scripts/mapgen/templates/world/worldmap_generator.nut",
+		"/C/Users/kuchtam/Documents/Battle Brothers/log.html",
+		"/C/Moje/Gry/Battle Brothers/Modding/scripts/mapgen/map_template.nut",
+		"/C/Moje/Gry/Battle Brothers/Modding/scripts/mapgen/map_generator.nut",
+		"/C/Moje/Gry/Battle Brothers/Modding/scripts/states/world_state.cnut",
+		"/C/Users/kuchtam/AppData/Local/Temp/uncom.tmp/edit.tmp/317c/world_state.nut",
+		"/C/Soft/template EN.html",
+		"/C/Soft/template RU.html",
+		"/C/Soft/mail/src/main/resources/db/migrations/common/v0.1.14_change_upcoming_payments_mail_template.sql",
+		"/C/Soft/mail/src/main/resources/db/migrations/common/v0.1.12_upcoming_payments_mail_template.sql",
+		"/C/Moje/Gry/HTML/TF Card Battle.55/TF Card Battle.html",
+		"/C/Moje/Gry/HTML/TF Card Battle/TFcb.html",
+		"/C/Moje/Gry/HTML/TF Card Battle/src/Start.twee",
+		"/C/Moje/Gry/HTML/TF Card Battle/build.bat",
+		"/C/Moje/Gry/HTML/TF Card Battle/src/StoryTitle.twee",
+		"/C/Moje/Gry/HTML/TF Card Battle/src/StoryAuthor.twee",
+		"/C/Moje/Gry/HTML/TF Card Battle/src/start.twee",
+		"/C/Moje/Gry/HTML/TF Card Battle.55/img/mods/README.txt",
+		"/C/Soft/ivf-deposits/.gitlab-ci/Dockerfile",
+		"/C/Soft/ivf-deposits/.gitlab-ci/docker-compose.yml",
+		"/C/Soft/payment-communication-scheduler/app/resources/task_rw_service.py",
+		"/C/Soft/ivf-deposits/.gitlab-ci/docker-entrypoint.sh",
+		"/C/Soft/ivf-depoists-test/docker-compose.yml",
+		"/C/Soft/ivf-depoists-test/config.ini",
+		"/C/Soft/payment-communication-scheduler/README.md",
+		"/C/Users/kuchtam/AppData/Local/Temp/uncom.tmp/edit.tmp/8aef/PE.html",
+		"/C/Moje/Gry/Gladiabots/readme.txt",
+		"/C/Moje/Gry/HTML/The Making of a Slut/The Making of a Slut.html",
+		"/C/Moje/Gry/Battle Brothers/Modding/bbros/bin/massdecompile.bat",
+		"/C/Moje/Gry/Battle Brothers Warriors of the North/data/scripts/zzz_my_mod/mod_easier_lone_wolf.nut",
+		"/C/Moje/Gry/Battle Brothers Warriors of the North/Modding/MyMod/scripts/config/global.nut",
+		"/C/Moje/Gry/Battle Brothers Warriors of the North/Modding/MyMod/scripts/config/events.nut",
+		"/C/Moje/Gry/Battle Brothers Warriors of the North/data/scripts/config/events.cnut",
+		"/C/Soft/mail/src/main/resources/db/migrations/common/v0.1.10_change_usg_not_performed_mail_template.sql",
+		"/C/Soft/hosts",
+		"/D/autorun.inf",
+		"/C/Moje/Gry/Battle Brothers Warriors of the North/Modding/mod_sellmultiplier.zip-92-1-0-1558394718/scripts/entity/world/settlement.nut",
+		"/C/Moje/Gry/Battle Brothers Warriors of the North/Modding/scripts/config/character.nut",
+		"/C/Moje/Gry/Battle Brothers Warriors of the North/Modding/UncappedPerkPoints-86-1-3-0-12-1558293382/scripts/config/character.nut",
+		"/C/Moje/Gry/Battle Brothers Warriors of the North/Modding/scripts/config/character.cnut",
+		"/C/Moje/Gry/Battle Brothers Warriors of the North/Modding/scripts/entity/world/settlement.nut",
+		"/C/Moje/Gry/Battle Brothers Warriors of the North/Modding/Mod_Less_Empty_Settlements-91-1-0-1558373322/scripts/entity/world/settlements/small_coast_fort.nut",
+		"/C/Moje/Gry/Battle Brothers Warriors of the North/Modding/scripts/entity/world/settlements/small_coast_fort.nut",
+		"/C/Moje/Gry/HTML/PE-8200/PE.html",
+		"/C/Moje/Gry/HTML/Bimbo Life Coach/Bimbo Life Coach.html",
+		"/C/Soft/curl.txt",
+		"/C/Moje/Gry/Battle Brothers Warriors of the North/Modding/scripts/scenarios/world/lone_wolf_scenario.nut",
+		"/C/Moje/Gry/Battle Brothers Warriors of the North/Modding/mod_easier_lone_wolf.nut",
+		"/C/Moje/Gry/Battle Brothers Warriors of the North/data/scripts/~mods_mymod/mod_easier_lone_wolf.nut"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Life.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 82,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								42,
+								42
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Life.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pierc",
+				"Trap Quest.inform\\Inform\\Extensions\\Piercings Modules\\All Piercings.i7x"
+			],
+			[
+				"modi",
+				"Trap Quest.inform\\Inform\\Extensions\\Furniture\\Modification Machine.i7x"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 274.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
