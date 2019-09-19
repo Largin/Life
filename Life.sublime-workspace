@@ -4,12 +4,48 @@
 		"selected_items":
 		[
 			[
-				"st",
-				"style\tTag"
+				"for",
+				"for\tfor (…) {…}"
 			],
 			[
-				"for",
-				"forEach"
+				"con",
+				"continue"
+			],
+			[
+				"cell",
+				"cells"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"drwa",
+				"drawBorder"
+			],
+			[
+				"po",
+				"points"
+			],
+			[
+				"poi",
+				"point"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
 			],
 			[
 				"fon",
@@ -35,7 +71,44 @@
 			"file": "Life.html",
 			"settings":
 			{
-				"buffer_size": 82,
+				"buffer_size": 257,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "main.js",
+			"settings":
+			{
+				"buffer_size": 8094,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "style.scss",
+			"settings":
+			{
+				"buffer_size": 110,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "$font-stack:    Helvetica, sans-serif;"
+			}
+		},
+		{
+			"file": "rhill-voronoi-core.js",
+			"settings":
+			{
+				"buffer_size": 58931,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "perlin.js",
+			"settings":
+			{
+				"buffer_size": 10440,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -53,6 +126,34 @@
 		"selected_items":
 		[
 			[
+				"syn j",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"syn",
+				"Set Syntax: SAS"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"syn jsa",
+				"Set Syntax: JavaScript"
+			],
+			[
 				"html",
 				"Set Syntax: HTML"
 			],
@@ -63,14 +164,6 @@
 			[
 				"colo",
 				"UI: Select Color Scheme"
-			],
-			[
-				"insta",
-				"Package Control: Install Package"
-			],
-			[
-				"remo",
-				"Package Control: Remove Package"
 			],
 			[
 				"instal",
@@ -157,9 +250,10 @@
 	},
 	"console":
 	{
-		"height": 0.0,
+		"height": 125.0,
 		"history":
 		[
+			"sass"
 		]
 	},
 	"distraction_free":
@@ -173,10 +267,12 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Moje/develop/Life 2"
+		"/C/Moje/develop/Life"
 	],
 	"file_history":
 	[
+		"/C/Moje/develop/Life/Life.sublime-project",
+		"/C/Moje/develop/Life/style.css",
 		"/C/Moje/develop/Life 2/Life.sublime-project",
 		"/C/Moje/_Git_Key/git-hub.key",
 		"/C/Moje/_Git_Key/git-hub",
@@ -302,9 +398,7 @@
 		"/C/Moje/Gry/HTML/PE-8200/PE.html",
 		"/C/Moje/Gry/HTML/Bimbo Life Coach/Bimbo Life Coach.html",
 		"/C/Soft/curl.txt",
-		"/C/Moje/Gry/Battle Brothers Warriors of the North/Modding/scripts/scenarios/world/lone_wolf_scenario.nut",
-		"/C/Moje/Gry/Battle Brothers Warriors of the North/Modding/mod_easier_lone_wolf.nut",
-		"/C/Moje/Gry/Battle Brothers Warriors of the North/data/scripts/~mods_mymod/mod_easier_lone_wolf.nut"
+		"/C/Moje/Gry/Battle Brothers Warriors of the North/Modding/scripts/scenarios/world/lone_wolf_scenario.nut"
 	],
 	"find":
 	{
@@ -339,7 +433,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 3,
 			"sheets":
 			[
 				{
@@ -348,15 +442,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 82,
+						"buffer_size": 257,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								42,
-								42
+								197,
+								197
 							]
 						],
 						"settings":
@@ -368,7 +462,126 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8094,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3274,
+								3274
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "style.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 110,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								91,
+								91
+							]
+						],
+						"settings":
+						{
+							"auto_name": "$font-stack:    Helvetica, sans-serif;",
+							"syntax": "Packages/Sass/Syntaxes/SCSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "rhill-voronoi-core.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 58931,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								16924,
+								16994
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2028.0,
+						"zoom_level": 1.0
+					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "perlin.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10440,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -380,7 +593,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 35.0
 	},
 	"layout":
 	{
@@ -405,11 +618,15 @@
 		]
 	},
 	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 192.0
+	},
 	"output.find_results":
 	{
 		"height": 0.0
 	},
-	"pinned_build_system": "",
+	"pinned_build_system": "SASS",
 	"project": "Life.sublime-project",
 	"replace":
 	{
