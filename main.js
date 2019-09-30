@@ -1,4 +1,73 @@
+'use strict';
 // Main file
+
+let TestDemo = {
+	canvas: null,
+	canvasSize: {x: 800, y: 600},
+	seed: 'test',
+	mapBox: {xl: 0, xr: 800, yt: 0, yb: 600},
+
+	init: function() {
+		console.info('Demo Init');
+		this.createCanvas();
+		noise.seed(this.seed);
+		this.gradient.init(this.mapBox);
+		this.drawHeightMap();
+	},
+
+	createCanvas: function() { 
+		console.info('Creating Canvas');
+		this.canvas = document.createElement("canvas");
+		this.canvas.height = this.canvasSize.y;
+		this.canvas.width = this.canvasSize.x;
+		document.body.appendChild(this.canvas);
+	},
+
+	gradient: {
+		mapCenter: null,
+		mapCenterBorderDistance: 0,
+
+		init: function(mapBox) {
+			this.mapCenter = {x: (mapBox.xl + mapBox.xr) / 2, y: (mapBox.yt + mapBox.yb) / 2}
+			this.mapCenterBorderDistance = this.mapCenter.y;
+
+			console.log(this.mapCenter, this.mapCenterBorderDistance);
+		},
+
+		get: function(x, y) {
+			let dist = Math.sqrt((this.mapCenter.x - x)*(this.mapCenter.x - x)+(this.mapCenter.y - y)*(this.mapCenter.y - y));
+			let f = Math.max(0, this.mapCenterBorderDistance - dist) / this.mapCenterBorderDistance;
+			return f;
+		}
+	},
+
+	drawHeightMap: function() {
+		let ctx = this.canvas.getContext("2d");	
+
+		let tmp = {min: 999, max: 0};
+
+		for (let x = this.mapBox.xl; x < this.mapBox.xr; x = x + 3) {
+			for (let y = this.mapBox.yt; y < this.mapBox.yb; y = y + 3) {
+				let h = (2-noise.perlin2(x/75,y/75))/2 * this.gradient.get(x, y); 
+				tmp.min = Math.min(h, tmp.min);
+				tmp.max = Math.max(h, tmp.max);
+				let shade = Math.min(255, Math.round(h * 255));
+				if(shade < 150)
+					ctx.fillStyle = 'rgb(0,0, 255)';	
+				else
+					ctx.fillStyle = 'rgb('+shade+', '+shade+', '+shade+')';
+				ctx.fillRect(x-1, y-1, 2, 2);
+			} 				
+		}
+		console.log(tmp)
+	}
+
+}
+
+
+TestDemo.init();
+
+
 
 function init() {
 	console.log("init - creating canvas");
@@ -157,11 +226,11 @@ function drawDiagram() {
 
 	while (iCells--) {
 		let cell = cells[iCells];
-		rn = Math.random();
+		let rn = Math.random();
 
 		if(rn < p) continue;
 
-		centroid = cellCentroid(cell);
+		let centroid = cellCentroid(cell);
 		//diagram.cells[iCells].centroid = centroid;
 
 		ctx.fillStyle = "#00FF00";

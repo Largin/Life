@@ -4,12 +4,44 @@
 		"selected_items":
 		[
 			[
-				"for",
-				"for\tfor (…) {…}"
+				"ma",
+				"mapCenterBorderDistance"
+			],
+			[
+				"in",
+				"init"
+			],
+			[
+				"map",
+				"mapCenter"
+			],
+			[
+				"hei",
+				"heightMap"
+			],
+			[
+				"he",
+				"heightMap"
+			],
+			[
+				"ca",
+				"canvasSize"
+			],
+			[
+				"crea",
+				"createCanvas"
+			],
+			[
+				"cre",
+				"createElement"
 			],
 			[
 				"con",
-				"continue"
+				"console"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
 			],
 			[
 				"cell",
@@ -80,7 +112,7 @@
 			"file": "main.js",
 			"settings":
 			{
-				"buffer_size": 8094,
+				"buffer_size": 12142,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -433,7 +465,7 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -462,7 +494,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
@@ -471,15 +503,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 8094,
+						"buffer_size": 12142,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3274,
-								3274
+								1069,
+								1069
 							]
 						],
 						"settings":
@@ -492,7 +524,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
@@ -521,7 +553,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 4,
 					"type": "text"
 				},
 				{
@@ -548,10 +580,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 2028.0,
+						"translation.y": 1833.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
@@ -567,8 +599,8 @@
 						"selection":
 						[
 							[
-								0,
-								0
+								292,
+								305
 							]
 						],
 						"settings":
@@ -581,7 +613,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
