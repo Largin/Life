@@ -4,6 +4,182 @@
 		"selected_items":
 		[
 			[
+				"dro",
+				"dropFruit"
+			],
+			[
+				"drop",
+				"dropFruitAtHome"
+			],
+			[
+				"fr",
+				"fruits"
+			],
+			[
+				"sp",
+				"speed"
+			],
+			[
+				"get",
+				"getOlder"
+			],
+			[
+				"s",
+				"size"
+			],
+			[
+				"spawnCreat",
+				"spawnCreaturesAtHome"
+			],
+			[
+				"spawnCre",
+				"spawnCreatureAtHome"
+			],
+			[
+				"spawnce",
+				"spawnCreatureAtHome"
+			],
+			[
+				"si",
+				"size"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"st",
+				"stat"
+			],
+			[
+				"sta",
+				"stats"
+			],
+			[
+				"crea",
+				"creatures"
+			],
+			[
+				"draw",
+				"drawCreatureGoal"
+			],
+			[
+				"Home",
+				"home"
+			],
+			[
+				"end",
+				"endTime"
+			],
+			[
+				"day",
+				"day"
+			],
+			[
+				"d",
+				"day"
+			],
+			[
+				"da",
+				"dayLimit"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"c",
+				"creatures"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"frui",
+				"fruitsNum"
+			],
+			[
+				"Po",
+				"Position"
+			],
+			[
+				"clos",
+				"closestDist"
+			],
+			[
+				"find",
+				"findHome"
+			],
+			[
+				"fin",
+				"findHomeDistance"
+			],
+			[
+				"clo",
+				"closest"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"spa",
+				"spawnCreature"
+			],
+			[
+				"b",
+				"box"
+			],
+			[
+				"cr",
+				"creatures"
+			],
+			[
+				"foul",
+				"foulness"
+			],
+			[
+				"pl",
+				"plant"
+			],
+			[
+				"pla",
+				"plant"
+			],
+			[
+				"cre",
+				"creature"
+			],
+			[
+				"drawCr",
+				"drawCreatureStats"
+			],
+			[
+				"cl",
+				"clearCanvas"
+			],
+			[
+				"pro",
+				"progress"
+			],
+			[
+				"time",
+				"timestamp"
+			],
+			[
+				"in",
+				"instanceof"
+			],
+			[
+				"do",
+				"doTick"
+			],
+			[
 				"drawc",
 				"drawCreatureGoal"
 			],
@@ -12,36 +188,16 @@
 				"goal"
 			],
 			[
-				"crea",
-				"creature"
-			],
-			[
 				"sea",
 				"searchFood"
-			],
-			[
-				"cre",
-				"creatures"
 			],
 			[
 				"generate",
 				"generateCreatures"
 			],
 			[
-				"pl",
-				"plants"
-			],
-			[
-				"co",
-				"console"
-			],
-			[
 				"con",
 				"console"
-			],
-			[
-				"draw",
-				"drawPlant"
 			],
 			[
 				"plan",
@@ -56,28 +212,12 @@
 				"generatePlants"
 			],
 			[
-				"po",
-				"position"
-			],
-			[
-				"cr",
-				"creature"
-			],
-			[
-				"c",
-				"ctx"
-			],
-			[
 				"B",
 				"beginPath"
 			],
 			[
 				"ma",
 				"mapCenterBorderDistance"
-			],
-			[
-				"in",
-				"init"
 			],
 			[
 				"map",
@@ -94,10 +234,6 @@
 			[
 				"ca",
 				"canvasSize"
-			],
-			[
-				"for",
-				"for\tfor (…) {…}"
 			],
 			[
 				"cell",
@@ -124,10 +260,6 @@
 				"width\tproperty"
 			],
 			[
-				"st",
-				"style\tTag"
-			],
-			[
 				"fon",
 				"font-weight\tproperty"
 			],
@@ -151,54 +283,26 @@
 			"file": "Life.html",
 			"settings":
 			{
-				"buffer_size": 302,
+				"buffer_size": 363,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "game.js",
+			"file": "game2.js",
 			"settings":
 			{
-				"buffer_size": 5004,
+				"buffer_size": 425,
 				"encoding": "UTF-8",
 				"line_ending": "Windows",
-				"name": "(function(){"
+				"name": "'use strict'"
 			}
 		},
 		{
-			"file": "main.js",
+			"file": "drawer.js",
 			"settings":
 			{
-				"buffer_size": 12142,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "style.scss",
-			"settings":
-			{
-				"buffer_size": 148,
-				"encoding": "UTF-8",
-				"line_ending": "Windows",
-				"name": "$font-stack:    Helvetica, sans-serif;"
-			}
-		},
-		{
-			"file": "rhill-voronoi-core.js",
-			"settings":
-			{
-				"buffer_size": 58931,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "perlin.js",
-			"settings":
-			{
-				"buffer_size": 10440,
+				"buffer_size": 14308,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -377,6 +481,14 @@
 	],
 	"file_history":
 	[
+		"/C/Moje/develop/Life/perlin.js",
+		"/C/Moje/develop/Life/rhill-voronoi-core.js",
+		"/C/Moje/develop/Life/style.scss",
+		"/C/Moje/develop/Life/main.js",
+		"/C/Moje/develop/Life/game.js",
+		"/C/Moje/develop/Life/drawer.js",
+		"/C/Moje/develop/server.bat",
+		"/C/Moje/Gry/HTML/Snow Day final.html",
 		"/C/Moje/develop/Life/Life.sublime-project",
 		"/C/Moje/develop/Life/style.css",
 		"/C/Moje/develop/Life 2/Life.sublime-project",
@@ -440,7 +552,6 @@
 		"/C/Moje/develop/twineGraph/cytoscape-euler.js",
 		"/C/Moje/develop/twineGraph/index.html",
 		"/C/Soft/ivf-deposits/.docker/config.ini",
-		"/C/Moje/develop/server.bat",
 		"/C/Moje/develop/twineGraph/Bimbo Life Coach.html",
 		"/C/Moje/develop/twineGraph/twine-parser-master/index.js",
 		"/C/Moje/develop/twineGraph/index.html.txt",
@@ -497,18 +608,11 @@
 		"/C/Moje/Gry/Battle Brothers Warriors of the North/Modding/mod_sellmultiplier.zip-92-1-0-1558394718/scripts/entity/world/settlement.nut",
 		"/C/Moje/Gry/Battle Brothers Warriors of the North/Modding/scripts/config/character.nut",
 		"/C/Moje/Gry/Battle Brothers Warriors of the North/Modding/UncappedPerkPoints-86-1-3-0-12-1558293382/scripts/config/character.nut",
-		"/C/Moje/Gry/Battle Brothers Warriors of the North/Modding/scripts/config/character.cnut",
-		"/C/Moje/Gry/Battle Brothers Warriors of the North/Modding/scripts/entity/world/settlement.nut",
-		"/C/Moje/Gry/Battle Brothers Warriors of the North/Modding/Mod_Less_Empty_Settlements-91-1-0-1558373322/scripts/entity/world/settlements/small_coast_fort.nut",
-		"/C/Moje/Gry/Battle Brothers Warriors of the North/Modding/scripts/entity/world/settlements/small_coast_fort.nut",
-		"/C/Moje/Gry/HTML/PE-8200/PE.html",
-		"/C/Moje/Gry/HTML/Bimbo Life Coach/Bimbo Life Coach.html",
-		"/C/Soft/curl.txt",
-		"/C/Moje/Gry/Battle Brothers Warriors of the North/Modding/scripts/scenarios/world/lone_wolf_scenario.nut"
+		"/C/Moje/Gry/Battle Brothers Warriors of the North/Modding/scripts/config/character.cnut"
 	],
 	"find":
 	{
-		"height": 39.0
+		"height": 22.0
 	},
 	"find_in_files":
 	{
@@ -522,6 +626,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"twine",
+			"twine ",
+			"length"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -539,7 +646,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -548,15 +655,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 302,
+						"buffer_size": 363,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								143,
-								143
+								195,
+								195
 							]
 						],
 						"settings":
@@ -571,24 +678,24 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "game.js",
+					"file": "game2.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 5004,
+						"buffer_size": 425,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								604,
-								604
+								158,
+								158
 							]
 						],
 						"settings":
@@ -596,45 +703,11 @@
 							"SL.41.region_keys":
 							[
 							],
-							"SL.44.region_keys":
+							"SL.47.region_keys":
 							[
 							],
-							"auto_name": "(function(){",
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 195.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "main.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 12142,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								549,
-								510
-							]
-						],
-						"settings":
-						{
-							"SL.40.region_keys":
-							[
-							],
-							"auto_name": "",
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"translate_tabs_to_spaces": false
+							"auto_name": "'use strict'",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -644,52 +717,20 @@
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "style.scss",
+					"buffer": 2,
+					"file": "drawer.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 148,
+						"buffer_size": 14308,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								146,
-								146
-							]
-						],
-						"settings":
-						{
-							"SL.41.region_keys":
-							[
-							],
-							"auto_name": "$font-stack:    Helvetica, sans-serif;",
-							"syntax": "Packages/Sass/Syntaxes/SCSS.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "rhill-voronoi-core.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 58931,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								16924,
-								16994
+								5675,
+								5675
 							]
 						],
 						"settings":
@@ -697,48 +738,20 @@
 							"SL.42.region_keys":
 							[
 							],
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1833.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "perlin.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 10440,
-						"regions":
-						{
-						},
-						"selection":
-						[
+							"SL.44.region_keys":
 							[
-								292,
-								305
-							]
-						],
-						"settings":
-						{
-							"SL.43.region_keys":
+							],
+							"SL.49.region_keys":
 							[
 							],
 							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1638.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -746,7 +759,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 24.0
+		"height": 22.0
 	},
 	"input":
 	{
@@ -791,7 +804,7 @@
 	"project": "Life.sublime-project",
 	"replace":
 	{
-		"height": 70.0
+		"height": 40.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -837,7 +850,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 274.0,
+	"side_bar_width": 276.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
